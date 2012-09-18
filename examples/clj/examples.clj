@@ -21,6 +21,7 @@
                              "en" "Hello George!"
                              "bg" "Zdravej, Georgi"
                              "Hello!"))
+  :available-media-types ["text/plain"]
   :available-languages ["en" "bg"])
 
 ;; Here's a resource you can POST to.
